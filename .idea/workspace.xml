@@ -9,6 +9,10 @@
       <change beforePath="$PROJECT_DIR$/../ChatBotV2/ChatBotV2/TC 3 - Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatBotV2/ChatBotV2/TC 3 - Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatBotV2/ChatBotV2/TC 4-quote_with_new_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatBotV2/ChatBotV2/TC 4-quote_with_new_client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatBotV2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatBotV2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_TC1_open_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_TC1_open_page.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_TC1_open_page.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_TC1_open_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -40,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ChatBotV2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,22 +80,21 @@
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports_Allure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="reports_html" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vihithag\PycharmProjects\Udemy\TestCases" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vihithag\PycharmProjects\Udemy\test_TC1_open_page.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vihithag\PycharmProjects\Udemy\TestCases\test_TC1_open_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vihithag\PycharmProjects\Udemy\test_TC1_open_page.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vihithag\PycharmProjects\Udemy\TestCases\test_TC1_open_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,8 +218,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80617976" visible="true" weight="0.29650238" />
-      <window_info id="Structure" order="1" sideWeight="0.19382022" side_tool="true" visible="true" weight="0.29650238" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8033708" visible="true" weight="0.29650238" />
+      <window_info id="Structure" order="1" sideWeight="0.19662921" side_tool="true" visible="true" weight="0.29650238" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -225,7 +229,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3676732" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3676732" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.6305506" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -272,12 +276,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reports_Allure/bdbb86cd-65e0-4533-853c-2f5c4c083c99-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports_Allure/38ace3f5-2634-4d67-a6ae-ef2f1bbd9c14-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports_Allure/bdbb86cd-65e0-4533-853c-2f5c4c083c99-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports_Allure/38ace3f5-2634-4d67-a6ae-ef2f1bbd9c14-result.json" />
     <entry file="file://$PROJECT_DIR$/../ChatBotV2/ChatBotV2/TC 4-quote_with_new_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -320,10 +320,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_TC1_open_page.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_TC1_open_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
