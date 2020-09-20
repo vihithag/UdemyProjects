@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ChatBotV2/.idea/ChatBotV2.iml" filepath="$PROJECT_DIR$/../ChatBotV2/.idea/ChatBotV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Udemy.iml" filepath="$PROJECT_DIR$/.idea/Udemy.iml" />
     </modules>
   </component>
